@@ -1,0 +1,22 @@
+This is the test suite for assignment 2.
+
+To run the tests you need to do the following:
+
+1. Extract the contents of the zip archive to a folder. They should include:
+   * TestSinglyLinkedList.class
+
+2. Place your SinglyLinkedList.java file in the same folder.
+
+3. Compile the java files by running
+   $ javac *.java
+
+4. Run the test suite for SinglyLinkedList:
+   $ java TestSinglyLinkedList
+
+   The test suite tests the following methods:
+   * get()
+   * insertAt()
+   * removeAt()
+   * reverse()
+   * all iterator methods
+
